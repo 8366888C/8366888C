@@ -9,16 +9,15 @@
 
 ###
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center">
 <tr>
-<td width="75%">
+<td width="85%">
 <pre>
-<code>🎯 Build → Break → Fix → Repeat
+🎯 Build → Break → Fix → Repeat
 🎧 Occasionally produce music
 🎮 Nights often end with LoL
-📙 Currently reading</code>
+📙 Currently reading
 </pre>
-
 </td>
 
 <td align="right">
@@ -62,9 +61,9 @@
 
 ###
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdxZmEzOGloemtzYWljem9hcGF6aGp0MjNkOXZmYjF3Z3Z4dHF1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6iZDh1VsP9aWfIGsMQ/giphy.gif" alt="Pac-Man Game" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=invoker-vcs&style=flat-square&color=gray" alt="Profile Views" />
