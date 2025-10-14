@@ -9,23 +9,23 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<table align="center">
+<tr>
+<td width="75%">
+<pre>
+<code>🎯 Build → Break → Fix → Repeat
+🎧 Occasionally produce music
+🎮 Nights often end with LoL
+📙 Currently reading</code>
+</pre>
 
-  <div style="flex:1">
+</td>
 
-```
- 🎯 Build → Break → Fix → Repeat
- 🎧 Occasionally produce music
- 🎮 Nights often end with LoL
- 📙 Currently reading ;
-```
-
-  </div>
-  <div style="flex:0 0 auto; text-align:right;">
-    <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F5M2NtaDF6ZjV4OHBod2pmdm42N2NrdDM3amxzbjR1a2R4dWJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zQ5r7FWZ7VPlm/giphy.gif" alt="Pac-Man GIF" height="106" />
-  </div>
-
-</div>
+<td align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F5M2NtaDF6ZjV4OHBod2pmdm42N2NrdDM3amxzbjR1a2R4dWJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zQ5r7FWZ7VPlm/giphy.gif" alt="Pac-Man GIF" height="90" />
+</td>
+</tr>
+</table>
 
 ###
 
