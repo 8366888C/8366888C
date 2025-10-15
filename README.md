@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,unreal,typescript,react,next,tailwind,supabase,astro,docker,tauri,rust,python,fastapi,pytorchz" />
+  <img src="https://skillicons.dev/icons?i=cpp,unreal,typescript,react,next,tailwind,supabase,astro,docker,tauri,rust,python,pytorch,fastapi" />
 </p>
 
 ###
